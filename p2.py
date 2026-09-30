@@ -1,0 +1,16 @@
+
+name=input("please enter your name=")
+age=int(input("please enter your age="))
+course=input("please enter your course=")
+percentage=float(input("please enter your percentage="))
+print(name)
+print(age)
+print(course)
+print(percentage)
+print(type(name))
+print(type(age))
+print(type(course))
+print(type(percentage))
+print(id(name))
+print(id(age))
+Next year,print(name) will be print(age) years old.
